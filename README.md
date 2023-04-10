@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhao-YinGang&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhao-YinGang&count_private=truej&show_icons=true&theme=ayu-mirage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-YinGang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Zhao-YinGang/Zhao-YinGang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
